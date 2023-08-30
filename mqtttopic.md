@@ -28,10 +28,11 @@
     - topic:v1cdti/app/get/1212312121/model-01/sn-001
     - payload
         - {"Human Count": "3"}
-        - {"acustic noise": "60 dB"}
+        - {"acustic noise": " 100 dB"}
         - {"temperature": "25.6"}
         - {"Humdity": "50%"}
         - {"Touch On/Off": "On"}
+        - {"Air pressure": "level"}
 
 
 
